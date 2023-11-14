@@ -22,7 +22,6 @@ Esse site foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Site
 
-- [Acesse o projeto finalizado, online](https://pedrodom0901.github.io/bugdroid-site/)
 - [Acesse o projeto finalizado, online](https://pedrodom0901.github.io/html-css/exercicios/exercicios/modulo2/site.html/site.html)
 
 ---
