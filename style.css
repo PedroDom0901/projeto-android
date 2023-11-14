@@ -135,7 +135,7 @@ main > article{
     padding: 0 20px;
 }
 #section3 > h2{
-    margin: 15px;
+    margin: 15px 0 15px 0;
     background-image: linear-gradient(to left, rgba(0, 128, 0, 0), rgba(0, 128, 0, 0.199), rgba(0, 128, 0, 0.473));
     font-family: var(--font-android);
 }
